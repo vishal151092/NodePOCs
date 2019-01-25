@@ -1,0 +1,21 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "this is learning practice app. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "vishal"
+  },
+  "keywords": [
+    "\u001b[A\u001b[A\u001b[B\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5C\u001b[1;5https://github.com/vishal151092/NodePOCs.git"
+  ],
+  "author": "\u001b vishal singh",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}
